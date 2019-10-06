@@ -31,4 +31,4 @@ def analyse_language_and_directors(movies_list,directors):
         launage_count[index]=directors_dict
     return launage_count
 director_language_data=analyse_language_and_directors(movies_details_chaching,sorted_directors_list)
-pprint (director_language_data)
+# pprint (director_language_data)
